@@ -1,0 +1,11 @@
+1. first go to EC2
+2.click on instance
+3.click on launch instance
+4. type a name of instance
+5.select ubuntu---64bit(x86)
+6.instance type --- t2/t3 micro
+7.create a key pair ----name a key name
+RSA
+-pem
+8.click on launch instance
+9.click on link
